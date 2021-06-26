@@ -6,5 +6,7 @@ Just simply download the .command file and run it. If you are unable to run the 
 
 ## References:
 [Printing with colors](https://stackoverflow.com/questions/5412761/using-colors-with-printf)
+
 [All color ANSI codes](https://gist.github.com/RabaDabaDoba/145049536f815903c79944599c6f952a)
+
 [Remove weird output](https://superuser.com/questions/975678/strange-output-from-terminal-exit-command-is-this-a-virus)
